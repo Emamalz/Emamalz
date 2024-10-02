@@ -38,7 +38,7 @@ Check out my [GitHub repositories](https://github.com/Emamalz?tab=repositories) 
 ---
 
 ## 📫 How to Reach Me:
-- **LinkedIn:** [Ema Maloku](www.linkedin.com/in/ema-maloku-232227217)
+- **LinkedIn:** [www.linkedin.com/in/ema-maloku-232227217](www.linkedin.com/in/ema-maloku-232227217)
 - **Email:** [ema.maloku@outlook.com](mailto:ema.maloku@outlook.com)
 - **Website/Portfolilio* [Portfolio Website](https://myportfolio.com)
 
