@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Ema.
 
 I'm a BENG Software Engineering student based in London. My focus lies in writing clean, efficient code and developing full-stack web applications. I’m always eager to learn new technologies and take on challenging projects.
 
