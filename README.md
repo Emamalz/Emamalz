@@ -8,10 +8,10 @@ I'm a BENG Software Engineering student based in London. My focus lies in writin
 - **Languages:** JavaScript, Python, Java, C++
 - **Front-End Development:** HTML5, CSS, React,
 - **Back-End Development:** Node.js, Django
-- **Databases:** MySQL, MongoDB, PostgreSQL
+- **Databases:** MySQL
 - **Version Control:** Git, GitHub
-- **Tools:** Visual Studio Code, Postman, Docker
-- **Other Technologies:** REST APIs, GraphQL, AWS
+- **Tools:** Visual Studio Code
+- **Other Technologies:** REST APIs
 
 ---
 
@@ -34,7 +34,8 @@ Check out my [GitHub repositories](https://github.com/Emamalz?tab=repositories) 
 - **Object-oriented Programming:** VScode
 - **Cloud Computing:** AWS, Azure
 - **Machine Learning:** TensorFlow, PyTorch
-
+- **IT Automation with Python:** Python
+  
 ---
 
 ## 📫 How to Reach Me:
@@ -45,7 +46,7 @@ Check out my [GitHub repositories](https://github.com/Emamalz?tab=repositories) 
 ---
 
 ## ⚡ Fun Fact:
-- I love solving puzzles, building personal projects, and I'm a big fan of AI.
+- I love solving puzzles, building personal projects, and have a big interest in AI.
 
 ---
 
