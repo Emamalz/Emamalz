@@ -1,6 +1,6 @@
 # Hi, I'm Emamalz 
 
-Software Engineer interested in cybersecurity, software development, iOS apps, and machine learning.
+Software Engineer
 
 ## Skills
 
